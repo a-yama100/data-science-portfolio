@@ -1,5 +1,3 @@
-# data-science-portfolio
-
 # Data Science Portfolio
 
 This repository contains a collection of data science projects demonstrating various analytical techniques and methodologies.
