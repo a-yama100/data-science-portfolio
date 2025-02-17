@@ -35,3 +35,16 @@ This repository contains a collection of data science projects demonstrating var
 git clone https://github.com/your-username/data-science-portfolio.git
 cd data-science-portfolio
 pip install -r requirements.txt
+
+## Technologies Used
+- Python 3.8
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- statsmodels
+- nltk
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
