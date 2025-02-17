@@ -35,6 +35,7 @@ This repository contains a collection of data science projects demonstrating var
 git clone https://github.com/your-username/data-science-portfolio.git
 cd data-science-portfolio
 pip install -r requirements.txt
+```
 
 ## Technologies Used
 - Python 3.8
